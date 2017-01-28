@@ -8,7 +8,7 @@ body,a {
 }
 
 .footer-centered {
-	background-color: #292c2f;
+	background-color: #444;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 
 	width: 100%;
@@ -45,7 +45,11 @@ body,a {
 	color: #00BFFF;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 1000px) {
+
+	.img-responsive{
+		margin: auto;
+	}
 
 	.footer-centered {
 		padding: 35px;
