@@ -7,6 +7,10 @@ body,a {
 	padding-top: 10px;
 }
 
+.featured-work{
+	margin-bottom: 25px;
+}
+
 .footer-centered {
 	background-color: #444;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -15,7 +19,7 @@ body,a {
 	text-align: center;
 	font: normal 18px sans-serif;
 	padding: 45px;
-	margin-top: 80px;
+	margin: auto;
 }
 
 .footer-centered .footer-text {
